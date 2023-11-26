@@ -13,5 +13,19 @@
 <img src="./public/images/HTML.png" alt="html">
 
 <h2>Punto 3: CSS</h2>
-<img src="./public/images/CSS.png" alt="html">
+<img src="./public/images/CSS.png" alt="css">
 
+<h2>Punto 4: Titulos</h2>
+<img src="./public/images/Titulos.png" alt="titulos">
+
+<h2>Punto 5: Párrafo</h2>
+<img src="./public/images/parrafo.png" alt="parrafo">
+
+<h2>Punto 6: Link</h2>
+<img src="./public/images/link.png" alt="link">
+
+<h2>Punto 7 y 8: Link</h2>
+<img src="./public/images/menu.png" alt="link">
+
+<h2>Punto 9: Link</h2>
+<img src="./public/images/tabla.png" alt="link">
