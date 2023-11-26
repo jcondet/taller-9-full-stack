@@ -2,7 +2,7 @@
     font-family:arial;
     font-size:100%;
     font-style:italic;
-    font-variant:small-caps;/*normal|small-caps|initial */
+    font-variant:small-caps;/
     color:red;
     }
     
@@ -10,11 +10,11 @@
     border-collapse:collapse;
     background-color:yellow;
     border:1px dotted black;
-    border-bottom-style:dashed;/*Estilo de la línea del borde de abajo de la tabla*/
-    border-bottom-color:red;/*Color del borde de abajo de la tabla*/
+    border-bottom-style:dashed;
+    border-bottom-color:red;
     margin:0 auto;
     }
     
     td{ 
-    border:1px dotted black;/*Para aplicar borde a cada celda de la tabla*/
+    border:1px dotted black;
     }
